@@ -1,4 +1,4 @@
-.navmain{
+/* .navmain{
     display: flex;
     flex-wrap: wrap;
     
@@ -7,5 +7,13 @@
     display: flex;
     flex-wrap: wrap;
     padding: 10px 0 10px 10px;
-    margin-left: ;
+    margin-left: ; */
+    .ml{
+        margin-left: 200px;
+    }
+.mm{
+    margin-left: 400px;
+}
+.mn{
+    margin-top: 300px;
 }

@@ -17,3 +17,22 @@
 .mn{
     margin-top: 300px;
 }
+.car1{
+    margin-left: 300px;
+}
+.but2{
+    /* margin-right:40%;
+    justify-content: center;
+    margin-left: 45%;
+    padding-right: 150px; */
+    /* width: 200px;
+    margin-right:40%; */
+    justify-content: center;
+    
+}
+.last{
+    width: 500px;
+    justify-content: center;
+    margin-left: 35%;
+    
+}
